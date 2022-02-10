@@ -16,54 +16,7 @@ BANDEIRA USA CK3
 
 BANDEIRA PORTUGAL
 	
-	coa_rd_title_2564453914={ pattern="pattern__solid_designer.dds"
-	color1=rgb { 151 33 17 } color2=yellow color3=black colored_emblem={
-	color1=white color2=white texture="ce_shield_portugal.dds" instance={
-	position={ 0.440000 0.470000 } scale={ 0.340000 0.350000 }
-	depth=16.010000 } instance={ position={ 0.440000 0.470000 }
-	scale={ 0.610000 0.610000 } depth=18.010000 } } colored_emblem={
-	color1=yellow_light texture="ce_ordinary_bend_sinister_5.dds"
-	instance={ position={ 0.280000 0.410000 } scale={ 0.280000 0.050000 }
-	depth=8.010000 rotation=317 } instance={ position={ 0.440000
-	0.640000 } scale={ 0.230000 0.030000 } depth=10.010000
-	rotation=135 } } colored_emblem={ color1=yellow_light
-	texture="ce_ordinary_fess_5.dds" instance={ position={ 0.590000
-	0.540000 } scale={ 0.250000 0.090000 } depth=7.010000 rotation=101
-	} } colored_emblem={ color1=yellow_light
-	texture="ce_ordinary_bend_dexter_5.dds" instance={ position={
-	0.440000 0.290000 } scale={ 0.200000 0.040000 } depth=9.010000
-	rotation=45 } } colored_emblem={ color1=yellow_light
-	texture="ce_castle_random.dds" instance={ position={ 0.360000
-	0.360000 } scale={ 0.060000 0.060000 } } instance={ position={
-	0.440000 0.360000 } scale={ 0.060000 0.060000 } depth=1.010000 }
-	instance={ position={ 0.530000 0.360000 } scale={ 0.060000 0.060000 }
-	depth=2.010000 } instance={ position={ 0.530000 0.460000 }
-	scale={ 0.060000 0.060000 } depth=4.010000 } instance={ position={
-	0.370000 0.560000 } scale={ 0.060000 0.060000 } depth=5.010000
-	rotation=322 } } colored_emblem={ color1=green
-	texture="ce_block_02.dds" instance={ position={ 0.120000 0.500000 }
-	scale={ 0.630000 1.000000 } depth=20.010000 } } colored_emblem={
-	color1=blue color2=white texture="ce_shield_portugal.dds" instance={
-	position={ 0.440000 0.520000 } scale={ 0.070000 0.070000 }
-	depth=11.010000 } instance={ position={ 0.440000 0.420000 }
-	scale={ 0.070000 0.070000 } depth=12.010000 } instance={
-	position={ 0.480000 0.470000 } scale={ 0.070000 0.070000 }
-	depth=13.010000 } instance={ position={ 0.400000 0.470000 }
-	scale={ 0.070000 0.070000 } depth=14.010000 } instance={
-	position={ 0.440000 0.470000 } scale={ 0.080000 0.080000 }
-	depth=15.010000 } } colored_emblem={ color1=rgb { 174 38 19 }
-	color2=rgb { 190 43 23 } texture="ce_shield_portugal.dds" instance={
-	position={ 0.440000 0.470000 } scale={ 0.560000 0.560000 }
-	depth=17.010000 } } colored_emblem={ color1=yellow_light
-	color2=yellow_light texture="ce_castle_random.dds" instance={
-	position={ 0.350000 0.460000 } scale={ 0.060000 0.060000 }
-	depth=3.010000 } } colored_emblem={ color1=yellow_light
-	texture="ce_suomenusko_sun_02.dds" instance={ position={ 0.440000
-	0.470000 } scale={ 0.600000 0.600000 } depth=19.010000 } }
-	colored_emblem={ color1=yellow_light color2=black
-	texture="ce_castle_random.dds" instance={ position={ 0.510000
-	0.560000 } scale={ 0.060000 0.060000 } depth=6.010000 rotation=41
-	} }}
+	coa_rd_title_2564453914={ pattern="pattern__solid_designer.dds" color1=rgb { 151 33 17 } color2=yellow color3=black colored_emblem={ color1=white color2=white texture="ce_shield_portugal.dds" instance={ position={ 0.440000 0.470000 } scale={ 0.340000 0.350000 } depth=16.010000 } instance={ position={ 0.440000 0.470000 } scale={ 0.610000 0.610000 } depth=18.010000 } } colored_emblem={color1=yellow_light texture="ce_ordinary_bend_sinister_5.dds" instance={ position={ 0.280000 0.410000 } scale={ 0.280000 0.050000 } depth=8.010000 rotation=317 } instance={ position={ 0.440000 0.640000 } scale={ 0.230000 0.030000 } depth=10.010000 rotation=135 } } colored_emblem={ color1=yellow_light texture="ce_ordinary_fess_5.dds" instance={ position={ 0.590000 0.540000 } scale={ 0.250000 0.090000 } depth=7.010000 rotation=101 } } colored_emblem={ color1=yellow_light texture="ce_ordinary_bend_dexter_5.dds" instance={ position={ 0.440000 0.290000 } scale={ 0.200000 0.040000 } depth=9.010000 rotation=45 } } colored_emblem={ color1=yellow_light texture="ce_castle_random.dds" instance={ position={ 0.360000 0.360000 } scale={ 0.060000 0.060000 } } instance={ position={ 0.440000 0.360000 } scale={ 0.060000 0.060000 } depth=1.010000 } instance={ position={ 0.530000 0.360000 } scale={ 0.060000 0.060000 } depth=2.010000 } instance={ position={ 0.530000 0.460000 } scale={ 0.060000 0.060000 } depth=4.010000 } instance={ position={ 0.370000 0.560000 } scale={ 0.060000 0.060000 } depth=5.010000 rotation=322 } } colored_emblem={ color1=green texture="ce_block_02.dds" instance={ position={ 0.120000 0.500000 } scale={ 0.630000 1.000000 } depth=20.010000 } } colored_emblem={ color1=blue color2=white texture="ce_shield_portugal.dds" instance={ position={ 0.440000 0.520000 } scale={ 0.070000 0.070000 } depth=11.010000 } instance={ position={ 0.440000 0.420000 } scale={ 0.070000 0.070000 } depth=12.010000 } instance={ position={ 0.480000 0.470000 } scale={ 0.070000 0.070000 } depth=13.010000 } instance={ position={ 0.400000 0.470000 } scale={ 0.070000 0.070000 } depth=14.010000 } instance={ position={ 0.440000 0.470000 } scale={ 0.080000 0.080000 } depth=15.010000 } } colored_emblem={ color1=rgb { 174 38 19 } color2=rgb { 190 43 23 } texture="ce_shield_portugal.dds" instance={ position={ 0.440000 0.470000 } scale={ 0.560000 0.560000 } depth=17.010000 } } colored_emblem={ color1=yellow_light color2=yellow_light texture="ce_castle_random.dds" instance={ position={ 0.350000 0.460000 } scale={ 0.060000 0.060000 } depth=3.010000 } } colored_emblem={ color1=yellow_light texture="ce_suomenusko_sun_02.dds" instance={ position={ 0.440000 0.470000 } scale={ 0.600000 0.600000 } depth=19.010000 } } colored_emblem={ color1=yellow_light color2=black texture="ce_castle_random.dds" instance={ position={ 0.510000 0.560000 } scale={ 0.060000 0.060000 } depth=6.010000 rotation=41 } }}
 
 BANDEIRA UK
 
@@ -75,56 +28,4 @@ BANDEIRA GERMANY
 
 BANDEIRA SPAIN
 
-	coa_rd_title_2564453914={ pattern="pattern__solid_designer.dds"
-	color1=rgb { 174 35 16 } color2=white color3=black colored_emblem={
-	color1=blue texture="ce_circle.dds" instance={ position={ 0.340000
-	0.510000 } scale={ 0.100000 0.120000 } } } colored_emblem={
-	color1=white texture="ce_billet.dds" instance={ position={ 0.390000
-	0.440000 } scale={ 0.270000 0.160000 } depth=18.010000 } }
-	colored_emblem={ color1=yellow color2=rgb { 171 35 17 }
-	texture="ce_crown_head.dds" instance={ position={ 0.480000 0.380000 }
-	scale={ 0.070000 0.070000 } depth=5.010000 } } colored_emblem={
-	color1=yellow_light texture="ce_block_01.dds" instance={ position={
-	0.500000 0.460000 } scale={ 1.000000 0.860000 } depth=20.010000 } }
-	colored_emblem={ color1=yellow_light texture="ce_mena_pale.dds"
-	instance={ position={ 0.310000 0.570000 } scale={ 0.040000 0.130000 }
-	depth=11.010000 } instance={ position={ 0.260000 0.560000 }
-	scale={ 0.040000 0.110000 } depth=13.010000 } } colored_emblem={
-	color1=yellow_light texture="ce_ordinary_pale_5.dds" instance={
-	position={ 0.330000 0.590000 } scale={ 0.050000 0.170000 }
-	depth=10.010000 } instance={ position={ 0.280000 0.570000 }
-	scale={ 0.060000 0.130000 } depth=12.010000 } } colored_emblem={
-	color1=rgb { 170 37 19 } color2=yellow_light texture="ce_crown.dds"
-	instance={ position={ 0.340000 0.330000 } scale={ 0.210000 0.150000 }
-	depth=16.010000 } } colored_emblem={ color1=rgb { 174 37 19 }
-	texture="ce_circle_mask.dds" instance={ position={ 0.340000 0.510000 }
-	scale={ 0.080000 0.100000 } depth=1.010000 } } colored_emblem={
-	color1=rgb { 237 162 220 } color2=rgb { 233 104 191 } color3=rgb { 199
-	91 73 } texture="ce_tiger_rampant.dds" instance={ position={
-	0.380000 0.440000 } scale={ 0.110000 0.110000 } depth=17.010000 } }
-	colored_emblem={ color1=yellow_light texture="ce_tower.dds"
-	instance={ position={ 0.290000 0.440000 } scale={ 0.150000 0.110000 }
-	depth=15.010000 } } colored_emblem={ color1=rgb { 181 32 12 }
-	texture="ce_tamgha_catal.dds" instance={ position={ 0.480000 0.490000
-	} scale={ 0.130000 0.200000 } depth=6.010000 rotation=269 } }
-	colored_emblem={ color1=rgb { 168 35 17 }
-	texture="ce_tamgha_catal.dds" instance={ position={ 0.200000 0.490000
-	} scale={ 0.130000 0.210000 } depth=7.010000 rotation=90 } }
-	colored_emblem={ color1=white color2=blue texture="ce_barruly_12.dds"
-	instance={ position={ 0.200000 0.620000 } scale={ 0.090000
-	0.050000 } depth=2.010000 } } colored_emblem={ color1=white
-	texture="ce_pillar_liege.dds" instance={ position={ 0.200000 0.510000
-	} scale={ 0.280000 0.340000 } depth=8.010000 } instance={
-	position={ 0.480000 0.510000 } scale={ 0.280000 0.350000 }
-	depth=9.010000 } } colored_emblem={ color1=yellow color2=rgb { 161 35
-	18 } texture="ce_crown_head.dds" instance={ position={ 0.200000
-	0.380000 } scale={ 0.070000 0.070000 } depth=4.010000 } }
-	colored_emblem={ color1=rgb { 185 44 25 } color2=rgb { 185 45 21 }
-	texture="ce_shield_portugal.dds" instance={ position={ 0.340000
-	0.510000 } scale={ 0.490000 0.490000 } depth=19.010000 } }
-	colored_emblem={ color1=yellow_light color2=rgb { 23 117 33 }
-	texture="ce_chains.dds" instance={ position={ 0.390000 0.560000 }
-	scale={ 0.110000 0.110000 } depth=14.010000 } } colored_emblem={
-	color1=blue color2=white texture="ce_barruly_12.dds" instance={
-	position={ 0.480000 0.620000 } scale={ 0.090000 0.050000 }
-	depth=3.010000 } }}
+	coa_rd_title_2564453914={ pattern="pattern__solid_designer.dds" color1=rgb { 174 35 16 } color2=white color3=black colored_emblem={ color1=blue texture="ce_circle.dds" instance={ position={ 0.340000 0.510000 } scale={ 0.100000 0.120000 } } } colored_emblem={ color1=white texture="ce_billet.dds" instance={ position={ 0.390000 	0.440000 } scale={ 0.270000 0.160000 } depth=18.010000 } } colored_emblem={ color1=yellow color2=rgb { 171 35 17 } texture="ce_crown_head.dds" instance={ position={ 0.480000 0.380000 } scale={ 0.070000 0.070000 } depth=5.010000 } } colored_emblem={ color1=yellow_light texture="ce_block_01.dds" instance={ position={ 0.500000 0.460000 } scale={ 1.000000 0.860000 } depth=20.010000 } } colored_emblem={ color1=yellow_light texture="ce_mena_pale.dds" instance={ position={ 0.310000 0.570000 } scale={ 0.040000 0.130000 } depth=11.010000 } instance={ position={ 0.260000 0.560000 } scale={ 0.040000 0.110000 } depth=13.010000 } } colored_emblem={ color1=yellow_light texture="ce_ordinary_pale_5.dds" instance={ position={ 0.330000 0.590000 } scale={ 0.050000 0.170000 } depth=10.010000 } instance={ position={ 0.280000 0.570000 } scale={ 0.060000 0.130000 } depth=12.010000 } } colored_emblem={ color1=rgb { 170 37 19 } color2=yellow_light texture="ce_crown.dds" instance={ position={ 0.340000 0.330000 } scale={ 0.210000 0.150000 } depth=16.010000 } } colored_emblem={ color1=rgb { 174 37 19 } 	texture="ce_circle_mask.dds" instance={ position={ 0.340000 0.510000 } scale={ 0.080000 0.100000 } depth=1.010000 } } colored_emblem={ color1=rgb { 237 162 220 } color2=rgb { 233 104 191 } color3=rgb { 199 91 73 } texture="ce_tiger_rampant.dds" instance={ position={ 0.380000 0.440000 } scale={ 0.110000 0.110000 } depth=17.010000 } } colored_emblem={ color1=yellow_light texture="ce_tower.dds" instance={ position={ 0.290000 0.440000 } scale={ 0.150000 0.110000 } depth=15.010000 } } colored_emblem={ color1=rgb { 181 32 12 } texture="ce_tamgha_catal.dds" instance={ position={ 0.480000 0.490000 } scale={ 0.130000 0.200000 } depth=6.010000 rotation=269 } } colored_emblem={ color1=rgb { 168 35 17 } texture="ce_tamgha_catal.dds" instance={ position={ 0.200000 0.490000 } scale={ 0.130000 0.210000 } depth=7.010000 rotation=90 } } colored_emblem={ color1=white color2=blue texture="ce_barruly_12.dds" instance={ position={ 0.200000 0.620000 } scale={ 0.090000 0.050000 } depth=2.010000 } } colored_emblem={ color1=white texture="ce_pillar_liege.dds" instance={ position={ 0.200000 0.510000 } scale={ 0.280000 0.340000 } depth=8.010000 } instance={ position={ 0.480000 0.510000 } scale={ 0.280000 0.350000 } depth=9.010000 } } colored_emblem={ color1=yellow color2=rgb { 161 35 18 } texture="ce_crown_head.dds" instance={ position={ 0.200000 0.380000 } scale={ 0.070000 0.070000 } depth=4.010000 } } colored_emblem={ color1=rgb { 185 44 25 } color2=rgb { 185 45 21 } texture="ce_shield_portugal.dds" instance={ position={ 0.340000 0.510000 } scale={ 0.490000 0.490000 } depth=19.010000 } } colored_emblem={ color1=yellow_light color2=rgb { 23 117 33 } texture="ce_chains.dds" instance={ position={ 0.390000 0.560000 } scale={ 0.110000 0.110000 } depth=14.010000 } } colored_emblem={ color1=blue color2=white texture="ce_barruly_12.dds" instance={ position={ 0.480000 0.620000 } scale={ 0.090000 0.050000 } depth=3.010000 } }}
