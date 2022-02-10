@@ -1,102 +1,6 @@
 CASA LOURENCO CK3
 	
-	coa_rd_title_3216081050={
-	pattern="pattern__solid_designer.dds"
-	color1=black
-	color2=white
-	color3=red
-	colored_emblem={
-		color1=red
-		texture="ce_fess_lozenges.dds"
-		instance={
-			position={ 0.500000 0.150000 }
-			scale={ 1.000000 0.580000 }
-			depth=7.010000
-		}
-
-	}
-
-	colored_emblem={
-		color1=white
-		texture="ce_block_02.dds"
-		instance={
-			position={ 0.500000 0.000000 }
-			scale={ 1.000000 0.420000 }
-			depth=8.010000
-		}
-
-	}
-
-	colored_emblem={
-		color1=red
-		texture="ce_star_08.dds"
-		instance={
-			position={ 0.730000 0.500000 }
-			scale={ 0.260000 0.260000 }
-		}
-
-		instance={
-			position={ 0.270000 0.500000 }
-			scale={ 0.270000 0.270000 }
-			depth=1.010000
-		}
-
-		instance={
-			position={ 0.500000 0.740000 }
-			scale={ 0.270000 0.270000 }
-			depth=4.010000
-		}
-
-	}
-
-	colored_emblem={
-		color1=red
-		texture="ce_block_02.dds"
-		instance={
-			position={ 0.500000 0.000000 }
-			scale={ 1.000000 0.290000 }
-			depth=6.010000
-		}
-
-	}
-
-	colored_emblem={
-		color1=white
-		texture="ce_star_08.dds"
-		instance={
-			position={ 0.730000 0.500000 }
-			scale={ 0.400000 0.400000 }
-			depth=2.010000
-		}
-
-		instance={
-			position={ 0.270000 0.500000 }
-			scale={ 0.410000 0.410000 }
-			depth=3.010000
-		}
-
-		instance={
-			position={ 0.500000 0.740000 }
-			scale={ 0.430000 0.430000 }
-			depth=5.010000
-		}
-
-	}
-
-	colored_emblem={
-		color1=white
-		color2=black
-		texture="ce_fess_lozenges.dds"
-		instance={
-			position={ 0.500000 0.210000 }
-			scale={ 1.000000 0.540000 }
-			depth=9.010000
-		}
-
-	}
-
-	}
-
+	coa_rd_title_3216081050={ pattern="pattern__solid_designer.dds" color1=black color2=white color3=red colored_emblem={ color1=red texture="ce_fess_lozenges.dds" instance={ position={ 0.500000 0.150000 } scale={ 1.000000 0.580000 } depth=7.010000 } } colored_emblem={ color1=white texture="ce_block_02.dds" instance={ position={ 0.500000 0.000000 } scale={ 1.000000 0.420000 } depth=8.010000 } } colored_emblem={ color1=red texture="ce_star_08.dds" instance={ position={ 0.730000 0.500000 } scale={ 0.260000 0.260000 } } instance={ position={ 0.270000 0.500000 } scale={ 0.270000 0.270000 } depth=1.010000 } instance={ position={ 0.500000 0.740000 } scale={ 0.270000 0.270000 } depth=4.010000 } } colored_emblem={ color1=red texture="ce_block_02.dds" instance={ position={ 0.500000 0.000000 } scale={ 1.000000 0.290000 } depth=6.010000 } } colored_emblem={ color1=white texture="ce_star_08.dds" instance={ position={ 0.730000 0.500000 } scale={ 0.400000 0.400000 } depth=2.010000 } instance={ position={ 0.270000 0.500000 } scale={ 0.410000 0.410000 } depth=3.010000 } instance={ position={ 0.500000 0.740000 } scale={ 0.430000 0.430000 } depth=5.010000 } } colored_emblem={ color1=white color2=black texture="ce_fess_lozenges.dds" instance={ position={ 0.500000 0.210000 } scale={ 1.000000 0.540000 } depth=9.010000 } } } 
 
 HOUSE VALHIR CK3 (VOLIBEAR)
 
@@ -166,18 +70,8 @@ BANDEIRA UK
 	coa_rd_title_3294199290={ pattern="pattern_vertical_stripes_02.dds" color1=rgb { 11 40 66 } color2=white color3=red colored_emblem={ color1=red texture="ce_block_03.dds" instance={ position={ 0.490000 0.490000 } scale={ 0.550000 1.000000 } rotation=271 } instance={ position={ 0.500000 0.460000 } scale={ 1.000000 0.560000 } depth=1.010000 } } colored_emblem={ color1=red texture="ce_block_05.dds" instance={ position={ 0.120000 0.830000 } depth=3.010000 rotation=137 } instance={ position={ 0.940000 0.830000 } depth=4.010000 rotation=45 } instance={ position={ 0.830000 0.140000 } depth=5.010000 rotation=137 } instance={ position={ 0.110000 0.130000 } depth=6.010000 rotation=225 } } colored_emblem={ color1=white texture="ce_cross_large.dds" instance={ position={ 0.500000 0.460000 } scale={ 1.000000 0.870000 } depth=2.010000 } } colored_emblem={ color1=white texture="ce_religion_custom_faith_2.dds" instance={ position={ 0.890000 0.800000 } depth=7.010000 rotation=315 } instance={ position={ 0.140000 0.800000 } depth=8.010000 rotation=46 } instance={ position={ 0.870000 0.120000 } depth=9.010000 rotation=226 } instance={ position={ 0.110000 0.100000 } depth=10.010000 rotation=135 } }}
 
 BANDEIRA GERMANY
-
-	coa_rd_title_2564453914={ pattern="pattern_tricolor_horizontal_01.dds"
-	color1=black color2=rgb { 174 31 12 } color3=yellow_light
-	colored_emblem={ color1=yellow_light color2=yellow_light color3=white
-	texture="ce_shield_portugal.dds" instance={ position={ 0.500000
-	0.490000 } scale={ 0.840000 0.800000 } depth=1.010000 } }
-	colored_emblem={ color1=black color2=yellow_light
-	texture="ce_shield_portugal.dds" instance={ position={ 0.500000
-	0.490000 } scale={ 0.900000 0.860000 } depth=2.010000 } }
-	colored_emblem={ color1=black color2=rgb { 217 45 6 } color3=white
-	texture="ce_eagle_small.dds" instance={ position={ 0.500000 0.480000 }
-	scale={ 0.450000 0.490000 } } }}
+	
+	coa_rd_title_2564453914={ pattern="pattern_tricolor_horizontal_01.dds" color1=black color2=rgb { 174 31 12 } color3=yellow_light colored_emblem={ color1=yellow_light color2=yellow_light color3=white texture="ce_shield_portugal.dds" instance={ position={ 0.500000 0.490000 } scale={ 0.840000 0.800000 } depth=1.010000 } } colored_emblem={ color1=black color2=yellow_light texture="ce_shield_portugal.dds" instance={ position={ 0.500000 0.490000 } scale={ 0.900000 0.860000 } depth=2.010000 } } colored_emblem={ color1=black color2=rgb { 217 45 6 } color3=white texture="ce_eagle_small.dds" instance={ position={ 0.500000 0.480000 } scale={ 0.450000 0.490000 } } }}
 
 BANDEIRA SPAIN
 
